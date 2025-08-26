@@ -66,7 +66,7 @@
 ---
 
 ## 📂 Featured Project
-🚀 [**Universal School System**](https://github.com/ibramatrix/universal-school-system)  
+🚀 [**Universal School System**](https://github.com/ibramatrix/SchoolManagementSystem)  
 *A complete software solution for schools (student app, teacher app, IoT integrations, and more).*
 
 ---
