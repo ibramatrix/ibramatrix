@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Muhammad Ibrahim Ashraf  
+<img align="right" alt="Coding GIF" src="codingwork.gif" width="300" />
 
 🎓 Computer Scientist | 💻 Software Developer | ⚡ IoT Enthusiast  
 
